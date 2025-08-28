@@ -1,10 +1,4 @@
-# SampleRepository
+# Insurance Predictions Repo
 
-Just a simple repository to start
-
-Hello what's up?
-
-
-
-Poggers
+Building...
 
